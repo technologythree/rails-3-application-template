@@ -1,0 +1,4 @@
+This is a template script used to generate a new Rails 3 Application.
+
+Usage: 
+rails new APP_NAME -m https://github.com/technologythree/rails-3-application-template/blob/master/rails_3_template.rb
